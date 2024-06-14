@@ -1,12 +1,19 @@
 ## Machine Learning Project: Workflow
+Project context: 
+In this project, we are going to analyse the house prices in the State of Texas. We will be looking the features that influence the house price and 
+using some supervised learning algorithm to find the best price for each houses. 
 
 Business Problem: the house prices in the US are expensive. The purpose of this project is to predict the best price for each houses
 based on its characteristics. 
+
+Hypothetical questions for this project:
+
 
 ### Analytical Approach: 
 - analyse the dataset
 - exploring features of the dataset
 - model training and evaluating
+- linear regression modeling
 - visualise the best house prices aligning with each feature 
 
 ### Data Collection: 
@@ -45,7 +52,7 @@ Living Space                          convert to m2
 Zip code population                   reduce to 1k
 
 Possible Features
-zip code Population/living Space
+Price/living Space
 Price/bedroom
 Price/bathroom
 
